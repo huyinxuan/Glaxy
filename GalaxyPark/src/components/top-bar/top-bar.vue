@@ -1,5 +1,6 @@
 <!-- 头部模块 -->
 <template>
+<div>
 	<div id="topStyle">
 		<div class="top_logo">
 			<img src="../../assets/icon-logo.png">
@@ -36,15 +37,16 @@
 			<img src="../../assets/icon-line.png">
 		</div>
 	</div>
+	</div>
 </template>
 
 <script type="text/javascript">
 export default{
-	data () {
-		    // return {
-		    //   msg: '欢迎来到家'
-		    // }
-		}
+	// data () {
+	// 	    // return {
+	// 	    //   msg: '欢迎来到家'
+	// 	    // }
+	// 	}
 	}
 </script>
 
